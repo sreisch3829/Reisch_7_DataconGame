@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" name="5" tilewidth="16" tileheight="16" tilecount="360">
+  <image source="../../../Downloads/Raindrops.png" width="250" height="396"/>
+ </tileset>
+ <tileset firstgid="361" name="1" tilewidth="64" tileheight="64" tilecount="16">
+  <image source="../../../dungeon/tile_1.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="377" name="2" tilewidth="64" tileheight="64" tilecount="16">
+  <image source="../../../dungeon/tile_2.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt17ENACAMA8GwLhtke8QEUIGLO8kL5Kv0qOqL8ca+9TxMj3f0yKJHFj2y6JFFjyx6ZLn5PfQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOC3BZb6J50=
+  </data>
+ </layer>
+</map>

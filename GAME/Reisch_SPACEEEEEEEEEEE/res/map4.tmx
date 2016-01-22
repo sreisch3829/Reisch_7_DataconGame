@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" name="3" tilewidth="64" tileheight="64" tilecount="16">
+  <image source="../../../dungeon/tile_1.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="17" name="3" tilewidth="64" tileheight="64" tilecount="16">
+  <image source="../../../dungeon/tile_1.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="33" name="4" tilewidth="64" tileheight="64" tilecount="16">
+  <image source="../../../dungeon/tile_2.png" width="256" height="256"/>
+  <terraintypes>
+   <terrain name="New Terrain" tile="-1"/>
+  </terraintypes>
+  <tile id="1" terrain=",,0,0"/>
+  <tile id="2" terrain=",0,0,0"/>
+  <tile id="3" terrain=",,0,"/>
+  <tile id="4" terrain=",0,,0"/>
+  <tile id="5" terrain="0,0,0,0"/>
+  <tile id="6" terrain="0,0,,0"/>
+  <tile id="7" terrain="0,,0,"/>
+  <tile id="8" terrain=",0,0,0"/>
+  <tile id="9" terrain="0,0,0,0"/>
+  <tile id="10" terrain="0,0,0,"/>
+  <tile id="11" terrain="0,0,0,"/>
+  <tile id="12" terrain="0,0,,0"/>
+  <tile id="13" terrain="0,0,0,0"/>
+  <tile id="14" terrain="0,0,0,0"/>
+  <tile id="15" terrain="0,,,"/>
+ </tileset>
+ <tileset firstgid="49" name="2" tilewidth="64" tileheight="64" tilecount="22">
+  <image source="../../../Downloads/MeagaLaser.png" width="184" height="712"/>
+ </tileset>
+ <tileset firstgid="71" name="1" tilewidth="64" tileheight="64" tilecount="8">
+  <image source="../../../Downloads/Wpn1.png" width="160" height="311"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA1NkYGBQpDJmpBIeNW/UvFHzRs0bNY+65lETAwB+rkeOQAYAAA==
+  </data>
+ </layer>
+</map>

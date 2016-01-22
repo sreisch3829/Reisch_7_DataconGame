@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="4" tilewidth="16" tileheight="16" tilecount="45">
+  <image source="../Downloads/Darkest Kale compilation.PNG" width="85" height="147"/>
+ </tileset>
+ <tileset firstgid="46" name="5" tilewidth="16" tileheight="16" tilecount="360">
+  <image source="../Downloads/Raindrops.png" width="250" height="396"/>
+ </tileset>
+ <tileset firstgid="406" name="6" tilewidth="16" tileheight="16" tilecount="96">
+  <image source="../Downloads/Corrupted1.png" width="196" height="128"/>
+ </tileset>
+ <tileset firstgid="502" name="7" tilewidth="16" tileheight="16" tilecount="1200">
+  <image source="../Downloads/SelectionScreen.png" width="640" height="480"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztl0uOgzAMhlOknqCbOQTbnmkWvQTrnqtnmgWrGSSscY2T+BUeFZYsWhWSfP5/h3S4pvRz+c9HSuk25/QZ//bs3r9bUzKHNugYpTlw9kImuG+4yjggPRzSOWgORNOabltz0PW28BXW2cIBz1v0iOSgCffVgnogmoPznGYv0eqh5cD6a/cx6Rya8Ggu1WBtjp7RnFuTt9+33q8icqrBXjm4/ngUNKNzcO9UC4f2XatNus4t9XgFna1qHFDTaI7xssySZ6i+Wo5WenAco1EH4GvNMSo4PDytOMa5Fy0clr5pwbHwPsPx6my60P1Ycha1/o+qcUg00fgLxqydGSI5MEtk0vGjfDXto5iDztUqYa4W/eFl+XIy9AH9gfvZ6hONF0t95OGwZI7D835Zg6Pv8hzgKcwBvVdbNz1LRnHg3vfowY2ZW3sUB621hFHDoX33ROiR63+tHtLa0PTo0aLPtfoegUPSc6Cfl0NyJsT3RejR2leS+tU4SmOUahbJsVZ/RLBQX9Z8S+scyYG126se2v13rxwtPQUccP3+u97nxIz4Pvw7DmDwrMuyfi6AA4+bG/uelkw39B3XYu3I1VrzHOXbgsMblMFSkz0F57mjxidpgq9Hjk/z18lxxhlnRMQvDiUxyg==
+  </data>
+ </layer>
+</map>

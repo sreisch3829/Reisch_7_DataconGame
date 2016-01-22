@@ -474,7 +474,7 @@ public class Unwavering extends BasicGameState {
 
 	throws SlickException {
 		
-//		counter += delta;
+		counter += delta;
 
 		Input input = gc.getInput();
 
